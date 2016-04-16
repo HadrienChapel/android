@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NationalAnthem</string>
+    <string name="website_button">website</string>
+    <string name="website_page">http://www.bahrain.com/en/Pages/default.aspx#.VwUZaoR8umI</string>
+    <string name="anthem_lyrics">
+        Bahrainona,\n
+        Maleekona,\n
+        Ramzul weaam,
+        Dostoroha aali almakanati wal maqam;\n
+        Meethaqoha nahju ashareeati wal oroobati wal qeyam,\n
+        Aashat mamlakatul bahrain,\n
+        Baladol keram,\n
+        Mahdo salaam,\n
+        Dostoroha aali almakanati wal maqam,\n
+        Meethaqoha nahju ashareeati wal oroobati wal qeyam,\n
+        Ashat mamlakatol Bahrain!\n
+    </string>
+</resources>

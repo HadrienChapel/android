@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">NationalAnthem</string>
+    <string name="website_button">Site internet</string>
+    <string name="website_page">http://www.france.fr</string>
+    <string name="anthem_lyrics">
+        \'Allons enfants de la Patrie\n
+        Le jour de gloire est arrivé !\n
+        Contre nous de la tyrannie\n
+        L\'étendard sanglant est levé\n
+        Entendez-vous dans nos campagnes\n
+        Mugir ces féroces soldats?\n
+        Ils viennent jusque dans vos bras.\n
+        Égorger vos fils, vos compagnes!\n
+        \n
+        Aux armes citoyens\n
+        Formez vos bataillons\n
+        Marchons, marchons\n
+        Qu\'un sang impur\n
+        Abreuve nos sillons\n
+        \n
+        Que veut cette horde d\'esclaves\n
+        De traîtres, de rois conjurés?\n
+        Pour qui ces ignobles entraves\n
+        Ces fers dès longtemps préparés?\n
+        Français, pour nous, ah! quel outrage\n
+        Quels transports il doit exciter?\n
+        C\'est nous qu\'on ose méditer\n
+        De rendre à l\'antique esclavage!\n
+        \n
+        Quoi ces cohortes étrangères!\n
+        Feraient la loi dans nos foyers!\n
+        Quoi! ces phalanges mercenaires\n
+        Terrasseraient nos fils guerriers!\n
+        Grand Dieu! par des mains enchaînées\n
+        Nos fronts sous le joug se ploieraient\n
+        De vils despotes deviendraient\n
+        Les maîtres des destinées.\n
+        \n
+        Tremblez, tyrans et vous perfides\n
+        L\'opprobre de tous les partis\n
+        Tremblez! vos projets parricides\n
+        Vont enfin recevoir leurs prix!\n
+        Tout est soldat pour vous combattre\n
+        S\'ils tombent, nos jeunes héros\n
+        La France en produit de nouveaux,\n
+        Contre vous tout prêts à se battre.\n
+        \n
+        Français, en guerriers magnanimes\n
+        Portez ou retenez vos coups!\n
+        Épargnez ces tristes victimes\n
+        À regret s\'armant contre nous\n
+        Mais ces despotes sanguinaires\n
+        Mais ces complices de Bouillé\n
+        Tous ces tigres qui, sans pitié\n
+        Déchirent le sein de leur mère!\n
+        \n
+        Nous entrerons dans la carrière\n
+        Quand nos aînés n\'y seront plus\n
+        Nous y trouverons leur poussière\n
+        Et la trace de leurs vertus\n
+        Bien moins jaloux de leur survivre\n
+        Que de partager leur cercueil\n
+        Nous aurons le sublime orgueil\n
+        De les venger ou de les suivre!\n
+        \n
+        Amour sacré de la Patrie\n
+        Conduis, soutiens nos bras vengeurs\n
+        Liberté, Liberté chérie\n
+        Combats avec tes défenseurs!\n
+        Sous nos drapeaux, que la victoire\n
+        Accoure à tes mâles accents\n
+        Que tes ennemis expirants\n
+        Voient ton triomphe et notre gloire!\'\n
+    </string>
+</resources>
