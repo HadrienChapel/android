@@ -1,6 +1,6 @@
-# NationalAnthem android app developed for a school project #
+# MultipleCurrencyConverter android app developed for a school project #
 
-This app plays the national anthem song depends on your phone language and displays lyrics and national flag on the screen.
+This application converts values in euro to USD/BHD/AED/GBP.
 
 ## Install Android Studio ##
 
