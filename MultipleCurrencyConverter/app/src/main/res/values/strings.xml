@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MultipleCurrencyConverter</string>
+    <string name="usd">USD</string>
+    <string name="eur">EUR</string>
+    <string name="bhd">BHD</string>
+    <string name="pound">GBP</string>
+    <string name="aed">AED</string>
+    <string name="convert">CONVERT</string>
+    <string name="input">Input in EUROS</string>
+    <string name="output">Output</string>
+    <string name="cache_currency">CurrenciesFile</string>
+</resources>
